@@ -1,0 +1,21 @@
+.S1 {
+    background-image: url(MHXX.jpg);
+}
+.S2{
+    background-image: url(MonsterHunterWI.avif);
+}
+.S3{
+    background-image: url(MHWilds.jpg);
+}
+
+img {
+    width: 325px;
+    height: 100px;
+}
+header{
+    background-color: burlywood;
+}
+
+li{
+    list-style: none;
+}
