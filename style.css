@@ -74,6 +74,7 @@ div {
     align-items: center;
     flex-direction: column;
     justify-content: end;
+    padding: 10px;
 
 }
 
